@@ -45,8 +45,12 @@ https://github.com/iamvikrant7/Aluminum-Trading-Dashboard
 
 Ecommerce-Sales-Dashboard
 ![Dashboard](https://github.com/Iamvikrant7/Ecommerce-Sales-Dashboard/blob/3c7c08d3cb9954611dc29297d8cf41a59d552477/Dashboard%20Screenshots/image.png)
-Aluminum-Trading-Dashboard
-![Dashboard](https://raw.githubusercontent.com/iamvikrant7/Ecommerce-Sales-Dashboard/3c7c08d3cb9954611dc29297d8cf41a59d552477/Dashboard%20Screenshots/image.png)
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard Preview](https://github.com/Iamvikrant7/Aluminum-trading-dashboard/blob/main/Screenshot%202026-05-10%20175051.png)
+
 ---
 
 ## 📈 Currently Learning
