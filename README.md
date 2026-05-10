@@ -38,7 +38,7 @@ End-to-End Sales Analysis Project using Excel, SQL Server & Power BI.
 https://github.com/iamvikrant7/Ecommerce-Sales-Dashboard
 ---
 🔗 Aluminum-Trading-Dashboard:
-https://github.com/yourusername/Aluminum-Trading-Dashboard
+https://github.com/iamvikrant7/Aluminum-Trading-Dashboard
 ---
 
 ## 📸 Dashboard Preview
