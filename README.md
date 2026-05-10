@@ -34,15 +34,19 @@ End-to-End Sales Analysis Project using Excel, SQL Server & Power BI.
 * KPI dashboard development
 * Category & product performance insights
 
-🔗 Project Repo:
+🔗 Ecommerce-Sales-Dashboard:
 https://github.com/iamvikrant7/Ecommerce-Sales-Dashboard
-
+---
+🔗 Aluminum-Trading-Dashboard:
+https://github.com/yourusername/Aluminum-Trading-Dashboard
 ---
 
 ## 📸 Dashboard Preview
 
+Ecommerce-Sales-Dashboard
 ![Dashboard](https://github.com/Iamvikrant7/Ecommerce-Sales-Dashboard/blob/3c7c08d3cb9954611dc29297d8cf41a59d552477/Dashboard%20Screenshots/image.png)
-
+Aluminum-Trading-Dashboard
+![Dashboard Preview](https://github.com/user-attachments/assets/bd29167e-b000-4531-acb0-6dbfe6edcf70)
 ---
 
 ## 📈 Currently Learning
